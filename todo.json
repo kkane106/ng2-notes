@@ -1,4 +1,5 @@
-"{
+[
+{
   "task" : "Go round mums",
   "description" : "Go round mums",
   "completed" : false
@@ -12,4 +13,5 @@
   "task" : "Sort life out",
   "description" : "Sort life out",
   "completed" : false
-}"
+}
+]
